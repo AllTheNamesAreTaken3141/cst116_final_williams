@@ -1,0 +1,5 @@
+Accounting, 2, $69,825
+Marketing, 5, $842,243
+Development, 3, $625,226
+Research, 2, $425,990
+Production, 5, $1,004,945

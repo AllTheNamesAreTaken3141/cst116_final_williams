@@ -1,0 +1,7 @@
+addSlashes:
+	for each char in string/array
+		if char is equal to target char, set that char in the string/array equal to '\'
+
+removeSlashes:
+	for each char in string/array
+		if char is equal to '\', set that char in the string/array equal to target char

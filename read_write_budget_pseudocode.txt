@@ -1,0 +1,19 @@
+program start
+
+ask user for input file path
+
+open input file
+split input file into lines and place them in a vector
+close input file
+
+for every line:
+split line into words and place them in a vector
+verify that line is valid (no invalid characters, correct number of items, etc)
+if the line is valid, push it to another vector, otherwise throw an error
+
+open output file
+clear output file
+loop backward through the valid lines vector and write each line to the output file
+close output file
+
+end program

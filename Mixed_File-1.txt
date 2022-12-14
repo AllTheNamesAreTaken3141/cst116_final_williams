@@ -1,0 +1,9 @@
+Production, 5, $1,004,945
+Research, 2, $425,990
+Development, 3, $625,226
+Sales, $1,844,925
+Marketing, 5, $842,243
+Human Resources, 2
+Accounting, 2, $69,825
+Finance, 2, $54,826 
+4, $899,240

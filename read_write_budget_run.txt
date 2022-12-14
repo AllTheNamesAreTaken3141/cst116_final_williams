@@ -1,0 +1,8 @@
+Enter the path to your file: ./Mixed_File-1.txt
+Error at line 4: not enough items!
+Error at line 6: budget does not have a '$'!
+Error at line 8: too many items!
+Error at line 9: not enough items!
+
+C:\Users\hey-t\source\repos\cst116_final\x64\Debug\cst116_final.exe (process 9568) exited with code 0.
+Press any key to close this window . . .

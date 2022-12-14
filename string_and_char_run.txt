@@ -1,0 +1,23 @@
+String in: Thou shalt not add an unholy fifthglyph to a string.
+Slashed string: Thou shalt not add an unholy fifthglyph to a string.
+Deslashed string: Thou shalt not add an unholy fifthglyph to a string.
+
+String in: By fifthglyph, I am obviously talking about the character 'e'.
+Slashed string: By fifthglyph, I am obviously talking about th\ charact\r '\'.
+Deslashed string: By fifthglyph, I am obviously talking about the character 'e'.
+
+String in: "To destroy your enemy on the battlefield, you must first destroy his mother in the bedroom." - Sun Tzu, 'The Art of War'
+Slashed string: "To d\stroy your \n\my on th\ battl\fi\ld, you must first d\stroy his moth\r in th\ b\droom." - Sun Tzu, 'Th\ Art of War'
+Deslashed string: "To destroy your enemy on the battlefield, you must first destroy his mother in the bedroom." - Sun Tzu, 'The Art of War'
+
+Char in: Thou shalt not add an unholy fifthglyph to a string.
+Slashed char: Thou shalt not add an unholy fifthglyph to a string.
+Deslashed char: Thou shalt not add an unholy fifthglyph to a string.
+
+Char in: By fifthglyph, I am obviously talking about the character 'e'.
+Slashed char: By fifthglyph, I am obviously talking about th\ charact\r '\'.
+Deslashed char: By fifthglyph, I am obviously talking about the character 'e'.
+
+Char in: "To destroy your enemy on the battlefield, you must first destroy his mother in the bedroom." - Sun Tzu, 'The Art of War'
+Slashed string: "To d\stroy your \n\my on th\ battl\fi\ld, you must first d\stroy his moth\r in th\ b\droom." - Sun Tzu, 'Th\ Art of War'
+Deslashed string: "To destroy your enemy on the battlefield, you must first destroy his mother in the bedroom." - Sun Tzu, 'The Art of War'
